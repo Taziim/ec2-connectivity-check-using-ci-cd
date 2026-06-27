@@ -78,7 +78,7 @@ This creates a temporary metadata access token used for secure communication wit
 * Add automated deployment stages
 
 ## Screenshots
-<img src="./assets/" alt="Todo App Screenshot" width="100%"/>
+<img src="./assets/successfullGithubActionsExecution.png" alt="Todo App Screenshot" width="100%"/>
 
 *Tariqul Islam*  
 📧 Email: tariqulislamtazim99@gmail.com  
